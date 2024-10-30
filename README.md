@@ -15,3 +15,11 @@ the function and run automatically when you commit through a GitHub action.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+
+
+Sources:
+
+ChatGPT - see what cases I should test for 
+
+https://www.youtube.com/watch?v=rKQaZuoUR4M - viewed this explanation
